@@ -1,5 +1,5 @@
 {
-    "name": "HoffmannAndras/dompdf",
+    "name": "hoffmann-andras/dompdf",
     "type": "library",
     "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
     "homepage": "https://github.com/dompdf/dompdf",
@@ -31,14 +31,5 @@
         "ext-mbstring": "*",
         "phenx/php-font-lib": "0.5.*",
         "phenx/php-svg-lib": "dev-master"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "4.8.*",
-        "squizlabs/php_codesniffer": "2.*"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-develop": "0.7-dev"
-        }
     }
 }
